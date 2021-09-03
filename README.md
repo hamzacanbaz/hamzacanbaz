@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Android Development**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **hamzacanbazdev@gmail.com**
-- 📄 Know about my experiences [Resume link](https://drive.google.com/drive/u/1/folders/1lTy81ekM5c-v0ZgREHiEgw7ArYZx5Gyq)
+- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1HBJPyo2InPaVWiNpzlPuzp9nlSD3axPP/view?usp=sharing)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58326260/131974349-459f4c94-7bfc-40b4-b0db-74c90411f372.gif" height="300" width="400" alt="animated" />
