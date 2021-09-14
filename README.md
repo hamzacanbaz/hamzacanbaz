@@ -3,11 +3,11 @@
 <h3 align="center">An Android Developer from İstanbul.</h3>
 
 
-
-- 🌱 I’m currently learning **Android Development**
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me **hamzacanbazdev@gmail.com**
-- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1VsAoJvIApg9MQtbBHlRZ9BR_zyThzeR8/view?usp=sharing)
+<br>
+ <p align="center">  <a  target="blank">🌱 I’m currently learning Native Android Development</a></p>
+ <p align="center">🥅 2021 Goals: Contribute more to Open Source projects</p>
+  <p align="center">📫 How to reach me  <a  href="hamzacanbazdev@gmail.com" target="blank">hamzacanbazdev@gmail.com</a></p>
+ <p align="center">📄 Know about my experiences  <a  href="https://drive.google.com/file/d/1VsAoJvIApg9MQtbBHlRZ9BR_zyThzeR8/view?usp=sharing" target="blank">Resume Link</a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58326260/131974349-459f4c94-7bfc-40b4-b0db-74c90411f372.gif" height="300" width="400" alt="animated" />
