@@ -5,7 +5,6 @@
 
 <br>
  <p align="center">  <a  target="blank">🌱 I’m currently learning Native Android Development</a></p>
- <p align="center">🥅 2021 Goals: Contribute more to Open Source projects</p>
   <p align="center">📫 How to reach me  <a  href="hamzacanbazdev@gmail.com" target="blank">hamzacanbazdev@gmail.com</a></p>
  <p align="center">📄 Know about my experiences  <a  href="https://drive.google.com/file/d/1YZ__71pMaWYYuncPk_KNrIVw6poBN9kE/view?usp=sharing" target="blank">Resume Link</a></p>
 
