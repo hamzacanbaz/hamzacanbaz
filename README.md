@@ -5,7 +5,9 @@
 
 <br>
  <p align="center">  <a  target="blank">🌱 I’m currently learning Native Android Development</a></p>
-  <p align="center">📫 How to reach me  <a  href="hamzacanbazdev@gmail.com" target="blank">hamzacanbazdev@gmail.com</a></p>
+ <p align="center">📫 How to reach me  <a  href="hamzacanbazdev@gmail.com" target="blank">hamzacanbazdev@gmail.com</a></p>
+ <p align="center">✌🏻 Check out my Medium account!  <a  href="https://medium.com/@hamzacanbaz" target="blank">hamzacanbaz</a></p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58326260/131974349-459f4c94-7bfc-40b4-b0db-74c90411f372.gif" height="300" width="400" alt="animated" />
