@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Hamza.</h1>
 <h3 align="center">An Android Developer from İstanbul.</h3>
 
@@ -25,3 +26,5 @@
 
 <h3 align="center">Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacanbaz&show_icons=true&locale=en&layout=compact" alt="hamzacanbaz" /></p>
+
+![](https://komarev.com/ghpvc/?username=hamzacanbaz)
