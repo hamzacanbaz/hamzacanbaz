@@ -5,7 +5,7 @@
 
 
 <br>
- <p align="center">  <a  target="blank">🌱 I’m currently coding Kotlin and Flutter</a></p>
+ <p align="center">  <a  target="blank">🌱 I’m currently coding Kotlin, Flutter and React Native</a></p>
  <p align="center">📫 How to reach me  <a  href="hamzacanbazdev@gmail.com" target="blank">hamzacanbazdev@gmail.com</a></p>
  <p align="center">✌🏻 Check out my Medium account!  <a  href="https://medium.com/@hamzacanbaz" target="blank">hamzacanbaz</a></p>
 
